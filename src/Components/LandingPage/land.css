@@ -1,0 +1,6 @@
+.landingP{
+    display: flex;
+    margin: 10px;
+    padding: 50 px;
+    justify-content: space-evenly;
+}
