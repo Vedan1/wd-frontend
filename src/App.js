@@ -6,7 +6,7 @@ import LandingPage from './Components/LandingPage/landingPage';
 import NCard from './Components/Card/nCard';
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{margin: "2rem"}}>
       <LandingPage />
       {/* <NCard /> */}
     </div>
