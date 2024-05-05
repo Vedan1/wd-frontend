@@ -1,5 +1,33 @@
-.bdr{
+/* .bdr{
+
     height: 15rem;
-    width: 20rem;
-    border: 2px solid;
+    margin: auto;
+    width: 10rem;
+    max-width: 34rem;
+    border: 5px solid ;
+    margin-top: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+} */
+
+.bdr{
+    
+        position:relative;
+        top: 0;
+        width: 20rem;
+        max-width: 25rem;
+        background: white;
+        padding: 1.5rem;
+        /* margin: 5%; */
+        box-shadow: 0 -0.5rem 1rem rgba(0 0 0 / 0.15);
+        border-radius: 4px;
+    
 }
+
+
+/* maxWidth: 345,
+margin: "auto",
+marginTop: 20,
+boxShadow: "0 8px 16px 0 rgba(0,0,0,0.2)",
+borderRadius: 8,
+overflow: "hidden" */
